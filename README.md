@@ -11,7 +11,7 @@
 <br>
 
 ### 🤔 What is Golang?
-Go is an open source programming language that makes it easy to build <b>simple</b>, <b>reliable</b>, and <b>efficient</b> software designed at<b>Google</b> by <b>Robert Griesemer</b>, <b>Rob Pike</b>, and <b>Ken Thompson</b>.
+Go is an open source programming language that makes it easy to build <b>simple</b>, <b>reliable</b>, and <b>efficient</b> software designed at <b>Google</b> by <b>Robert Griesemer</b>, <b>Rob Pike</b>, and <b>Ken Thompson</b>.
 
 ### :recycle: How to contribute?
 
