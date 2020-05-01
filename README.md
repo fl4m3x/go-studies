@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="img/Go-Logo_Blue.png" width="250px" /><br>
-  Every day is a Golang day!
+  Every day is a <b>Golang</b> day!
 </h2>
 <p align="center">
   <a href="https://golang.org">
